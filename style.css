@@ -1,0 +1,10 @@
+.card{
+    width: 500;
+    background-color: red;
+    text-align: center;
+}
+#dish-name{
+    color: aliceblue;
+    text-align: center;
+    style="width: 50px;"
+}
